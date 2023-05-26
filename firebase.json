@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "app-mungkorn888",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
